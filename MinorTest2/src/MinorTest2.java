@@ -23,7 +23,7 @@ public class MinorTest2 {
 
             //Also Important
             waterTest2.process();
-            //System.out.println(waterTest2.processLog());
+            System.out.println(waterTest2.processLog());
 
 
     }
